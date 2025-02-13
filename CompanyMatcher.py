@@ -10,9 +10,7 @@ Original file is located at
 
 This code is used to conduct text analysis, seeking matches between two documents: the company's full name and its relative information.
 
-Start date: 04/04/2024
-
-End date:   07/04/2024
+date: 02/13/2025
 
 Reference Package:
 1.fuzzywuzzy
